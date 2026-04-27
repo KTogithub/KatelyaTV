@@ -28,4 +28,5 @@ LOG_LEVEL = "info"
 LOG_FORMAT = "json"
 NODE_ENV = "production"
 NEXT_PUBLIC_ENABLE_REGISTER = "true"
+NEXT_PUBLIC_USER_SYSTEM = "true"
 
